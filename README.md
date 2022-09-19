@@ -1,2 +1,3 @@
 # CyberNet
-First Coding Lesson
+My First Coding Lesson
+I Love Coding
